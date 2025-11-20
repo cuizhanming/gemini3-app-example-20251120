@@ -1,0 +1,7 @@
+{
+  "name": "PayCheck AI",
+  "description": "A native-feeling iOS-style web app for managing payslips using Firebase and Gemini AI. Features camera scanning, structured data extraction, and conversational insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
